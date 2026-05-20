@@ -10,7 +10,7 @@ An integrated **Java Desktop Application** designed to organize and manage diffe
 
 ---
 
-## 📸 واجهات البرنامج (GUI Showcase)
+## واجهات البرنامج (GUI Showcase)
 
 ### 1️⃣ الواجهة الرئيسية وإضافة لجان (Main Form & Add Committees)
 <img width="664" height="445" alt="addCommitte" src="https://github.com/user-attachments/assets/9490a59d-b98f-4770-8994-305a883a15a7" />
